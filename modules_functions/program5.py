@@ -1,6 +1,4 @@
 
-from itertools import count
-
 
 print("""
 Q) Write a Python program to create Fibonacci series upto n using Lambda.
